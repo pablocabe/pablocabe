@@ -1,7 +1,7 @@
 ### 👋 ¡Hola! Soy Pablo
 Estudiante en segundo año de la Licenciatura en Informática UNLP.
 
-Periodista Deportivo recibido en la Facultad de Periodismo y Comunicación Social. 
+Periodista Deportivo recibido en la Facultad de Periodismo y Comunicación Social UNLP. 
 
 ---
 
