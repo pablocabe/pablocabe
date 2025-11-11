@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy Pablo
 Estudiante en segundo año de la Licenciatura en Informática UNLP.
-Además, completé la Tecnicatura Superior Universitaria en Periodismo Deportivo UNLP.
+Periodista Deportivo recibido en la Facultad de Periodismo y Comunicación Social. 
 
 ---
 
@@ -14,8 +14,6 @@ Además, completé la Tecnicatura Superior Universitaria en Periodismo Deportivo
 
 ### 💻 Tecnologías que conozco
 <p>
-  <img src="https://img.shields.io/badge/Pascal-E39E2C?style=for-the-badge&logo=pascal&logoColor=white" alt="Pascal" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Pascal-E39E2C?style=flat-square&logo=pascal&logoColor=white" alt="Pascal" />
+  <img src="https://img.shields.io/badge/Pascal-E39E2C?style=social&logo=pascal&logoColor=white" alt="Pascal" />
 </p>
