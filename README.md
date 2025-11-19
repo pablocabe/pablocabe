@@ -12,9 +12,3 @@ Periodista Deportivo recibido en la Facultad de Periodismo y Comunicación Socia
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablocabe&layout=compact&theme=dark)](https://github.com/anuragnetwork/github-readme-stats)
 
 ---
-
-### 💻 Tecnologías que conozco
-<p>
-  <img src="https://img.shields.io/badge/Pascal-E39E2C?style=for-the-badge&logo=pascal&logoColor=white" alt="Pascal" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
