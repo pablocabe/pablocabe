@@ -9,8 +9,11 @@
 <br>
 
 - 📚 Estudiante en segundo año de la **Licenciatura en Informática** en la Facultad de Informática UNLP.
+  
 - 🎙️ **Periodista Deportivo** recibido en la Facultad de Periodismo y Comunicación Social UNLP.
+  
 - 🔎 Me aboqué a la difusión del fútbol femenino como SEO Content Strategy, Social Media Manager, Scouting Analyst, Conductor y Productor Radial entre 2019 y 2024.
+  
 - 🗨️ Contacto: pablocabe0@gmail.com
 ---
 
