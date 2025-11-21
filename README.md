@@ -15,13 +15,11 @@
 - 🔎 Me aboqué a la difusión del fútbol femenino como SEO Content Strategy, Social Media Manager, Scouting Analyst, Conductor y Productor Radial entre 2019 y 2024.
   
 - 🗨️ Contacto: pablocabe0@gmail.com
+  
+- 💼 LinkedIn: https://www.linkedin.com/in/pablo-cabe/
 ---
 
 <div align="center">
-
-  <h3>📱 Contacto</h3>
-
-  <a href="https://www.linkedin.com/in/pablo-cabe/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin: 0 10px;" /></a><a href="mailto:pablocabe0@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="50" height="50" style="margin: 0 10px;" /></a>
   
   <h3>🛠 Lenguajes y Herramientas</h3>
 
