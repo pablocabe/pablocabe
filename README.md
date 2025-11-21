@@ -16,7 +16,7 @@
   
 - 🗨️ Contacto: pablocabe0@gmail.com
   
-- 💼 LinkedIn: https://www.linkedin.com/in/pablo-cabe/
+- 💼 Experiencia detallada: [LinkedIn](https://www.linkedin.com/in/pablo-cabe/)
 ---
 
 <div align="center">
