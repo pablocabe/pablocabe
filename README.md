@@ -12,7 +12,7 @@
   
 - 🎙️ **Periodista Deportivo** recibido en la Facultad de Periodismo y Comunicación Social UNLP.
   
-- 🔎 Me aboqué a la difusión del fútbol femenino como SEO Content Strategy, Social Media Manager, Scouting Analyst, Conductor y Productor Radial entre 2019 y 2024.
+- 🔎 Me aboqué a la difusión del **Fútbol Femenino** como SEO Content Strategy, Social Media Manager, Scouting Analyst, Conductor y Productor Radial entre 2019 y 2024.
   
 - 🗨️ Contacto: pablocabe0@gmail.com
   
