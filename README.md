@@ -1,4 +1,11 @@
 ### 👋 ¡Hola! Soy Pablo
+
+---
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JtemduZGo3ZXllYmp5YXBoczZ3Z2p0bml2cWpnbGl5MWh5dWY5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgpaNlDEiPd77pu/giphy.gif" alt="BoJack Horseman Waving" width="400">
+</div>
+
 Estudiante en segundo año de la Licenciatura en Informática UNLP.
 
 Periodista Deportivo recibido en la Facultad de Periodismo y Comunicación Social UNLP.
