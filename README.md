@@ -35,10 +35,12 @@
 
 ---
 
-### 📈 Mis Estadísticas
-
-[![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pablocabe&show_icons=true&theme=dark)](https://github.com/anuragnetwork/github-readme-stats)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablocabe&layout=compact&theme=dark)](https://github.com/anuragnetwork/github-readme-stats)
+<div align="center">
+  <h3>📈 Mis Estadísticas</h3>
+  
+  <img src="./profile-summary-card-output/dark/0-profile-details.svg" alt="Stats Generales" />
+  <img src="./profile-summary-card-output/dark/2-most-commit-language.svg" alt="Top Lenguajes" />
+  
+</div>
 
 ---
