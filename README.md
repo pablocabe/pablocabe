@@ -35,10 +35,14 @@
 
 ---
 
-### 📈 Mis Estadísticas
+<div align="center">
+  <h3>📈 Mis Estadísticas</h3>
 
-[![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pablocabe&show_icons=true&theme=dark)](https://github.com/anuragnetwork/github-readme-stats)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablocabe&layout=compact&theme=dark)](https://github.com/anuragnetwork/github-readme-stats)
-
----
+  <a href="https://github.com/anuragnetwork/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=pablocabe&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  </a>
+  
+  <a href="https://github.com/anuragnetwork/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocabe&layout=compact&theme=dark&hide_border=true" height="180" alt="languages graph" />
+  </a>
+</div>
