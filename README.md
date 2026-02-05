@@ -8,7 +8,7 @@
 
 <br>
 
-- 📚 Estudiante en segundo año de la **Licenciatura en Informática** en la Facultad de Informática UNLP.
+- 📚 Estudiante en tercer año de la **Licenciatura en Informática** en la Facultad de Informática UNLP.
   
 - 🎙️ **Periodista Deportivo** recibido en la Facultad de Periodismo y Comunicación Social UNLP.
   
