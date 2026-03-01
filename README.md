@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnltaG82eDM1ZHJ5eHhzZGZkZmI1cG00d2loOXpqeXZvMmt0NXNvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11UGZ6bdyjmJhK/giphy.gif" alt="BoJack Horseman Waving" width="500">
 </div>
-<br>
+
 - 📚 Estudiante en tercer año de la **Licenciatura en Informática** en la Facultad de Informática UNLP.
   
 - 🎙️ **Periodista Deportivo** recibido en la Facultad de Periodismo y Comunicación Social UNLP.
