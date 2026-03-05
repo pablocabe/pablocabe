@@ -34,8 +34,8 @@
 <div align="center">
   <h3>📈 Mis Estadísticas</h3>
   
-  ![Overview](https://raw.githubusercontent.com/pablocabe/github-stats/master/generated/overview.svg)
-  ![Languages](https://raw.githubusercontent.com/pablocabe/github-stats/master/generated/languages.svg)
+  ![Overview](https://raw.githubusercontent.com/pablocabe/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![Languages](https://raw.githubusercontent.com/pablocabe/github-stats/master/generated/languages.svg#gh-dark-mode-only)
   
 </div>
 
