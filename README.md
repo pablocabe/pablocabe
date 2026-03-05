@@ -34,8 +34,8 @@
 <div align="center">
   <h3>📈 Mis Estadísticas</h3>
   
-  <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Stats Generales" />
-  <img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Top Lenguajes" />
+  ![Overview](https://raw.githubusercontent.com/pablocabe/github-stats/master/generated/overview.svg)
+  ![Languages](https://raw.githubusercontent.com/pablocabe/github-stats/master/generated/languages.svg)
   
 </div>
 
